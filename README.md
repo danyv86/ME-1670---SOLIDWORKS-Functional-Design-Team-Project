@@ -20,3 +20,5 @@ o Contribute to at least one sub-assembly and renderings for the parts and
 o Contribute to team efforts such as planning, preparing minutes of the
 meeting, final assembly modeling, creating animation and motion
 mechanisms, preparing assembly instruction manual, documentation etc."
+
+This project contains the final project report with all aspects of the design process, my SOLIDWORKS part contributions, reports throughout the process, images of the parts, and part drawings.
